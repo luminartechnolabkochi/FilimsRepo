@@ -2,3 +2,5 @@ arm,2025,jithin,tovino
 kgf,2018,prasanth,yash
 lucky,2024,director,dq
 abcd,2017,director,dq
+avesam,2024,director,fafa
+pushpa2,2024,director,allu
